@@ -2,7 +2,7 @@
 .topnav {
     font-family: 'Raleway';
     overflow: hidden;
-    background-color: #333;
+    background-color: #363636;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
@@ -10,7 +10,7 @@
   
 /* Links inside the navbar */
 .topnav a {
-    float: left;
+    float: right;
     display: block;
     color: #f2f2f2;
     text-align: center;
@@ -20,10 +20,15 @@
   
 /* Change background on mouse-over */
 .topnav a:hover {
-    background: #ddd;
-    color: black;
+    background: #575757;
+    color: #FF7722;
 }
   
+.top-bar{
+    width: 100%;
+    background: #FF7722;
+    height: 2px;
+}
 /* Main content */
 .main {
     margin-top: 30px; /* Add a top margin to avoid content overlay */
