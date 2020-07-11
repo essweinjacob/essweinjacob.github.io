@@ -23,14 +23,14 @@
 .topnav a:hover {
     background: #575757;
     color: #FF7722;
+    text-decoration: none;
 }
-  
-.top-bar{
-    width: 100%;
-    background: #FF7722;
-    height: 2px;
+
+.welcome{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-/* Main content */
-.main {
-    margin-top: 30px; /* Add a top margin to avoid content overlay */
-}
+
