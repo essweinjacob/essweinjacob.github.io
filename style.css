@@ -1,6 +1,7 @@
 /* The navigation bar */
 .topnav {
     font-family: 'Raleway';
+    font-weight: bold;
     overflow: hidden;
     background-color: #363636;
     position: fixed; /* Set the navbar to fixed position */
