@@ -1,4 +1,6 @@
 #welcome{
     height: 100%vh;
     width: 100%vw;
+    background-attachment: black;
+    color: limegreen;
 }
