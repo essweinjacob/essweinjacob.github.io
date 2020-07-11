@@ -1,9 +1,9 @@
 .section{
-    height: 100%vh;
-    width: 100%vw;
+    height: 100vh;
+    width: 100vw;
 }
 
 #welcome{
     background-color: #333;
-    
+
 }
